@@ -14,6 +14,7 @@ digest = "0.8"
 byte-tools = "0.2"
 block-buffer = "^0.3.3"
 opaque-debug = "0.2"
+keccak = "0.1"
 
 [dev-dependencies]
 digest = { version = "0.8", features = ["dev"] }
